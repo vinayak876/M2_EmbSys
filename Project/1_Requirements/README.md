@@ -22,6 +22,6 @@
 |     HLR-5(Buzzer)      |  *This is a sound device that warns with a buzzer |
 
 ## Components
-|   Requirements         |              Description                     |
-| ---------------------  | -------------------------------------------- |
-|    Arduino UNO         | The Arduino Uno is an open-source microcontroller board designed by Arduino.cc and and 6 analogue I                           pins, and it can be programmed using the Arduino IDE and a |
+|   Requirements         |                                                    Description                                        |
+| ---------------------  ------------------------------------------------------------------------------------------------------- |
+|    Arduino UNO         |The Arduino Uno is an open-source microcontroller board designed by Arduino.cc and based on the Microchip ATmega328P microprocessor. The board has a number of digital and analogue input/output (I/O) pins that can be used to connect to expansion boards and other devices. The board contains 14 digital I/O pins and 6 analogue I/O pins, and it can be programmed using the Arduino IDE and a USB type B connector.
