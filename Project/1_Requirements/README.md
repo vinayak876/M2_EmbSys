@@ -20,3 +20,8 @@
 |     HLR-3(LCD)         |  *It should display the proper distance of the object in centimeters |
 |     HLR-4(US)          |  *HC-SR04 is a ultrasonic sensor which works using SONAR to detect object |
 |     HLR-5(Buzzer)      |  *This is a sound device that warns with a buzzer |
+
+## Components
+|   Requirements         |              Description                     |
+| ---------------------  | -------------------------------------------- |
+|    Arduino UNO         | The Arduino Uno is an open-source microcontroller board designed by Arduino.cc and and 6 analogue I                           pins, and it can be programmed using the Arduino IDE and a |
