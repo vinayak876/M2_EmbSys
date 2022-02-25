@@ -10,9 +10,13 @@
 |    LLR-5     |  Buzzer for warning of the object           |
 
 ## High Level Requirements
-|    Requirements       |               Description                   |
-| --------------------  | ------------------------------------------- |
-|    HLR-1(Arduino)     | 1.Should receive the data from the sensor and process it | 
-|     HLR-1.1           |  2.Rotation of the servo motor from 0 to 180 degree |
-|     HLR-1.2           |  3.Display the data(distance) on the LCD | 
-|     HLR-1.3           |  4.Should make the buzzer on, if object detected |
+|    Requirements        |               Description                   |
+| ---------------------- | ------------------------------------------- |
+|    HLR-1(Arduino)      |  *Should receive the data from the sensor and process it | 
+|     HLR-1.1            |  *Maintaining Rotation of the servo motor  |
+|     HLR-1.2            |  *Display the data(distance) on the LCD | 
+|     HLR-1.3            |  *Should make the buzzer on, if object detected |
+|     HLR-2(Servo Motor) |  *It should rotate from 0 to 180 degree with bit faster rate | 
+|     HLR-3(LCD)         |  *It should display the proper distance of the object in centimeters |
+|     HLR-4(US)          |  *HC-SR04 is a ultrasonic sensor which works using SONAR to detect object |
+|     HLR-5(Buzzer)      |  *This is a sound device that warns with a buzzer |
