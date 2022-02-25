@@ -12,7 +12,7 @@
 ## High Level Requirements
 | Requirements |                Description                   |
 | ------------ | --------------------------------------------                           |
-|    HLR-1     | 1.Should receive the data from the sensor and process it |
-               |  2.Rotation of the servo motor from 0 to 180 degree |
-               |  3.Display the data(distance) on the LCD | 
-               |  4.Should make the buzzer on, if object detected |
+|    HLR-1     | 1.Should receive the data from the sensor and process it 
+                 2.Rotation of the servo motor from 0 to 180 degree 
+                 3.Display the data(distance) on the LCD 
+                 4.Should make the buzzer on, if object detected |
