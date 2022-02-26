@@ -25,7 +25,7 @@
 |   Requirements    |                                                    Description                                             |
 | ------------------|  -------------------------------------------------------------------------------------------------------   |
 |   Arduino UNO     |     The arduino is open source microcontroller board designed by arduino.cc based                           
-                          microchip   ATmega328p microprocessor. The board has a number of digital analogue input/output pins that can be used to connect to expansion boards and other devices. The board contains 14 digital I/O pins and 6 analogue I/O pins, and it can be programmed using the Arduino IDE and a USB type B  connector.|
+                    |      microchip   ATmega328p microprocessor. The board has a number of digital analogue input/output pins that can be used to |connect to expansion boards and other devices. The board contains 14 digital I/O pins and 6 analogue I/O pins, and it can be ||programmed using the Arduino IDE and a USB type B  connector.|
 |   LCD Display     |   A LCD Display is flat panel display that uses liqutd crystal light modulating characteristics in conjunction with 
                         polarizers Liquid crystals do not directly emit light; instead, they use a backlight or reflector to create colour or monochrome images.|
 | HC-SR04 sensor    | Two ultrasonic transducers make up the HC-SR04 ultrasonic sensor. The one serves as a transmitter, converting the electrical
