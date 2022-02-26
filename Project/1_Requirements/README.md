@@ -22,16 +22,16 @@
 |     HLR-5(Buzzer)      |  *This is a sound device that warns with a buzzer |
 
 ## Components
-|   Requirements    |                                                    Description                                             |
-| ------------------|  -------------------------------------------------------------------------------------------------------   |
-|   Arduino UNO     |     The arduino is open source microcontroller board designed by arduino.cc based                           
-                    |      microchip   ATmega328p microprocessor. The board has a number of digital analogue input/output pins that can be used to |connect to expansion boards and other devices. The board contains 14 digital I/O pins and 6 analogue I/O pins, and it can be ||programmed using the Arduino IDE and a USB type B  connector.|
-|   LCD Display     |   A LCD Display is flat panel display that uses liqutd crystal light modulating characteristics in conjunction with 
-                        polarizers Liquid crystals do not directly emit light; instead, they use a backlight or reflector to create colour or monochrome images.|
-| HC-SR04 sensor    | Two ultrasonic transducers make up the HC-SR04 ultrasonic sensor. The one serves as a transmitter, converting the electrical
-                      signals into ultrasonic sound pulses at a frequency of 40 KHz. The sensor is compact, easy to integrate into any robotics project, and provides outstanding non-contact range detection with a 3mm accuracy between 2 cm and 400 cm. It may be immediately connected to an Arduino or any other 5V logic microcontroller because it runs on 5 volts. |
-|  Servo motor      |  A servo motor  is a rotary actuator or linear actuator that allows for precise control of angular or                      
-                       linear position, velocity and acceleration.[1] It consists of a suitable motor coupled to a sensor for position feedback. It also requires a relatively sophisticated controller, often a dedicated module designed specifically for use with servomotors.|
-|   Buzzer          | It generates the sound, which is helpful to warn the obstacles |
-|  Potentiometer    | It is used to measure the voltage or the electric potential |       
-|  Resistor(220ohm) | It is helpful to provide the resistance |                                
+    Requirements                                                       Description                                             
+
+   Arduino UNO            The arduino is open source microcontroller board designed by arduino.cc based                           
+                          microchip   ATmega328p microprocessor. The board has a number of digital analogue input/output pins that can be used to connect to expansion boards and other devices. The board contains 14 digital I/O pins and 6 analogue I/O pins, and it can be |programmed using the Arduino IDE and a USB type B  connector.
+   LCD Display:       A LCD Display is flat panel display that uses liqutd crystal light modulating characteristics in conjunction with 
+                        polarizers Liquid crystals do not directly emit light; instead, they use a backlight or reflector to create colour or monochrome images.
+  HC-SR04 sensor:      Two ultrasonic transducers make up the HC-SR04 ultrasonic sensor. The one serves as a transmitter, converting the electrical
+                      signals into ultrasonic sound pulses at a frequency of 40 KHz. The sensor is compact, easy to integrate into any robotics project, and provides outstanding non-contact range detection with a 3mm accuracy between 2 cm and 400 cm. It may be immediately connected to an Arduino or any other 5V logic microcontroller because it runs on 5 volts. 
+  Servo motor:        A servo motor  is a rotary actuator or linear actuator that allows for precise control of angular or                      
+                       linear position, velocity and acceleration.[1] It consists of a suitable motor coupled to a sensor for position feedback. It also requires a relatively sophisticated controller, often a dedicated module designed specifically for use with servomotors.
+   Buzzer :          It generates the sound, which is helpful to warn the obstacles 
+  Potentiometer :     It is used to measure the voltage or the electric potential        
+  Resistor(220ohm) :  It is helpful to provide the resistance                                 
