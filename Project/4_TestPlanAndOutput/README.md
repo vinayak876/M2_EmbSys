@@ -3,4 +3,4 @@
 | SL.No |                Description                          |      Exp i/p     |     Exp o/p     |     Actual o/p     |   
 |-------|-----------------------------------------------------|------------------|-----------------|--------------------|
 |   1   | When power supply is given all the components       |                  |                 |                    |
-            <br> should activate                                                                                              
+            <br /> should activate                                                                                              
