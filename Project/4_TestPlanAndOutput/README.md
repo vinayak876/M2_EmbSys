@@ -15,4 +15,4 @@
 |   2   | To the check the message displayed of object distance|  sensor detects | Message displayed | Message displayed |Technical based|
 |   3   | Ultra-sonic sensor should detect the obstacle | Obstacle in range | Detected | Detected |Technical based|
 |   4   |Servo motor should pause ,when ultra-sonic sensor detects obstacle | Obstacle in range | Servo motor stopped | Servo motor stopped|Technical based|
-                                                                                                      
+
