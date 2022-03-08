@@ -16,7 +16,7 @@ void setup() {
   Serial.begin(9600);
   lcd.begin(16, 2);
 }
-void loop() {
+void loop() {                         // Here the code is about calculating the distance
   for (int i = 0; i <= 180; i++) {
     myservo.write(i);
     time_Measurement();
@@ -44,7 +44,7 @@ void loop() {
     delay(100);
   }    
 }
-void time_Measurement()
+void time_Measurement() // Here the code is about measuring of the obstacle from the ultra-sonic sensor when it is in range
 {
   digitalWrite(trig, LOW);
   delayMicroseconds(2);
@@ -53,7 +53,7 @@ void time_Measurement()
   digitalWrite(trig, LOW);
   duration = pulseIn(echo, HIGH);
 }
-void intruder_detected()
+void intruder_detected()// Here the code is about the obstacle detection where the buzzer gets on , indicating that obstacle has been detected
 {
   lcd.clear();
   lcd.setCursor(0, 0);
